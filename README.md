@@ -11,7 +11,7 @@ This is a simple backend API that classifies numbers based on different mathemat
 
 ## Endpoints
 
-### GET `https://hng-number-classification-api-ha7u.onrender.com/api/classify-number?number={number}`
+### GET `https:hng-number-classification-api-ha7u.onrender.com/api/classify-number?number={number}`
 
 #### Query Parameters:
 - `number` (required): The number you want to classify.
